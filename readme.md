@@ -1,6 +1,6 @@
-### Hey there, I'm Ashish :3
+### Hey there, I'm Harsh
 
-Building **fun, practical terminal tools** and **web apps** while contributing to **open source**,  
+Building **web apps** while contributing to **open source**,  
 with a love for tackling **tough problems, learning new tech**, and **creating software** that’s both **useful and enjoyable** :)
 
 - CE Undergrad.
