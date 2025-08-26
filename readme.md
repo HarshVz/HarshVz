@@ -3,7 +3,7 @@
 Building **web apps** while contributing to **open source**,  
 with a love for tackling **tough problems, learning new tech**, and **creating software** that’s both **useful and enjoyable** :)
 
-- CE Undergrad.
+- CS Undergrad.
 - Building **web apps**.
 
 <br>
