@@ -4,12 +4,9 @@ Building **web apps** while contributing to **open source**,
 with a love for tackling **tough problems, learning new tech**, and **creating software** that’s both **useful and enjoyable** :)
 
 - Contributing to **open source** and collaborating on projects  
-
 <br>
-
 <!--
 ### Skills & Technologies
-
 <p>
         <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="30" height="30" alt="C" /></a>
         <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="30" height="30" alt="Python" /></a>
@@ -28,9 +25,7 @@ with a love for tackling **tough problems, learning new tech**, and **creating s
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="30" height="30" alt="Git" /></a>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="30" height="30" alt="VS Code" /></a>
 </p>
-
 -->
-
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card"><img height="190" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harshvz&show_icons=true&custom_title=GitHub+Statistics&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#top-languages-card"><img width="345" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvz&layout=compact&title_color=cba6f7&theme=catppuccin_mocha&border_color=45475a"/></a>
