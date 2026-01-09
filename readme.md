@@ -6,6 +6,4 @@ i love solving tough problems, learning new tech, and creating software that's u
 
 **stack:** react, next.js, typescript, node.js, postgresql
 
----
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshvz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=cba6f7&line=cba6f7&point=c9d1d9&area=true&area_color=cba6f7)
