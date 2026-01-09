@@ -89,9 +89,6 @@
     <a href="https://github.com/harshvz">
       <img src="https://img.shields.io/badge/Follow-harshvz-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
     </a>
-    <a href="https://harshdarji.me">
-      <img src="https://img.shields.io/badge/Visit-Portfolio-cba6f7?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Portfolio">
-    </a>
   </p>
   
   <sub>⭐️ From [harshvz](https://github.com/harshvz) with ❤️</sub>
